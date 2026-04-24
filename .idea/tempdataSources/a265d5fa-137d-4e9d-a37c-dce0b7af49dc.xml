@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="课题组mySQL服务器">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.51">
+    <root id="1">
+      <DefaultCasing>exact</DefaultCasing>
+      <DefaultEngine>InnoDB</DefaultEngine>
+      <DefaultTmpEngine>InnoDB</DefaultTmpEngine>
+      <ServerVersion>5.7.28</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="information_schema">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="3" parent="1" name="159_fdr">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="4" parent="1" name="159_jierfl">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="5" parent="1" name="800">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="6" parent="1" name="A3_Data">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="7" parent="1" name="CNC_DAQ">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="8" parent="1" name="ESS">
+      <CollationName>utf8mb4_general_ci</CollationName>
+    </schema>
+    <schema id="9" parent="1" name="HololensRemoteFunctionTest">
+      <CollationName>utf8_bin</CollationName>
+    </schema>
+    <schema id="10" parent="1" name="IOT">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="11" parent="1" name="MAS">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="12" parent="1" name="NGC_data">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="13" parent="1" name="NR">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="14" parent="1" name="NewWXFactory">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="15" parent="1" name="PATENTS">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="16" parent="1" name="along">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="17" parent="1" name="check_in_record">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="18" parent="1" name="code1">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="19" parent="1" name="enterprise_service_station">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="20" parent="1" name="ess-old">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="21" parent="1" name="factoryNH">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="22" parent="1" name="factoryWX">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="23" parent="1" name="hrc_space">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="24" parent="1" name="labIntroWeb">
+      <CollationName>utf8mb4_general_ci</CollationName>
+    </schema>
+    <schema id="25" parent="1" name="labinfo">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="26" parent="1" name="mysql">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="27" parent="1" name="performance_schema">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="28" parent="1" name="sys">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="29" parent="1" name="tsg">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="30" parent="1" name="wlq_test">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+  </database-model>
+</dataSource>
